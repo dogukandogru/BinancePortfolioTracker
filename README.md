@@ -14,11 +14,17 @@ Welcome to Binance Portfolio Tracker. This project help you to track your portfo
 ## Usage
 
 1- Install libraries with `pip install -r requirements.txt` command.
+
 2- Binance -> Profile -> API Managemenet
+
 3- Create an API
+
 4- Copy the API key and paste it into the corresponding API_KEY section in the API KEYS.json file located in the project folder.
+
 5- Do the same for the Secret Key as for the API Key.
+
 Note: Keep your Secret Key because the Secret Key cannot be viewed again.
+
 6- Run `UpdatePortfolio.py` file. It will gather the information from your account and write it down to `Portfolio.xlsx`
 
 
