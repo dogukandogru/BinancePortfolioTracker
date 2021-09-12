@@ -3,7 +3,7 @@
 Welcome to Binance Portfolio Tracker. This project help you to track your portfolio more efficiently.
 
 
-## Heading Advantages over Binance dashboard:
+## Advantages over Binance dashboard:
 
 - Average cost of each coin
 - Current profit based on dollar and percentage
