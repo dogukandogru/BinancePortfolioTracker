@@ -15,7 +15,7 @@ Welcome to Binance Portfolio Tracker. This project help you to track your portfo
 
 1- Install libraries with `pip install -r requirements.txt` command.
 
-2- Binance -> Profile -> API Managemenet
+2- Binance -> Profile -> API Management
 
 3- Create an API
 
